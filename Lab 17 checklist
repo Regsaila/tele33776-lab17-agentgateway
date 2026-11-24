@@ -1,0 +1,10 @@
+## Lab 17 Checklist (TELE33776)
+
+- [x] Part 1: Environment, `agentgateway` v1.7.0, and Ollama (`qwen3:4b`, `qwen3:1.7b`) setup
+- [x] Part 2: Virtual keys, SHA-256 hashes, and gateway configuration
+- [x] Part 3: PII regex guardrails and request/response filtering
+- [x] Part 4: Token budgets and rate limits
+- [x] Part 5: Claude Code and Pi harness integration (`fast` and `smart` models)
+- [x] Part 6: GitHub MCP server connection and automated issue/PR workflow
+- [x] Part 7: Gateway observability and MCP log verification
+- [x] Part 8: Final lab report and screenshots
